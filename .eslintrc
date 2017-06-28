@@ -1,0 +1,13 @@
+{
+  # "extends": 'eslint:recommended',
+  # "extends": './public-eslintrc.js',
+  "extends": 'airbnb',
+
+  "env": {
+    "browser": true,
+    "node":true
+  },
+  rules: {
+    # "no-console": 'off',
+    },
+}

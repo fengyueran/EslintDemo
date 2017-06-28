@@ -1,0 +1,26 @@
+{
+  "name": "eslintdemo",
+  "version": "1.0.0",
+  "description": "eslint 的简单使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengyueran/EslintDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengyueran/EslintDemo/issues"
+  },
+  "homepage": "https://github.com/fengyueran/EslintDemo#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-import": "^2.6.0",
+    "eslint-plugin-jsx-a11y": "^5.1.0",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
